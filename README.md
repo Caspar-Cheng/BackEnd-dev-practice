@@ -1,6 +1,6 @@
 # BackEnd-dev-practice
-This is a collection of my website coding practice: fontend + backend(server);
-Mainly used as JavaScript, HTML, Node.js(Express.js/JSON/APIs/Git/EJS)
+This is a collection of my website coding practice: fontend + backend(server + database);
+Mainly used as JavaScript, HTML, Node.js(Express.js/JSON/APIs/Git/EJS), SQL, MongoDB;
 
 /First one is my first server built inside the folder "my-express-server";
 
