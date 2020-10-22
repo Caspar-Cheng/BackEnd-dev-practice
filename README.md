@@ -11,3 +11,5 @@ Mainly used as JavaScript, HTML, Node.js(Express.js/JSON/APIs/Git/EJS), SQL, Mon
 /- 4 - A real website, it can collect the user's sign up info and return to creator's mailchimp account. This has used the mailchimp API, and heroku to create my own free website port. The website address is: https://fierce-sea-13675.herokuapp.com/  (Newsletter-Signup.zip / Newsletter.js / failure.html / success.html / signup.html)
 
 /- 5 - A webpage used EJS to set a to do list, user can add new items and check them out when finished them, includes date list, worklist and about page. (todolist1.zip / styles.css / todolist1.js / about.ejs / footer.ejs / header.ejs / list.ejs)
+
+/- 6 - Secreting-Starting-Code project, is a practice of authentication. I went through different levels of security and solutions of authentication via the usage of mongoose-encryption, dotenv, hash, bcrypt, salt round,passport.js, OAuth to implement how to register through third party account, which is Google account inside this project. It a localhost webpage and mongoDB database back up. 
