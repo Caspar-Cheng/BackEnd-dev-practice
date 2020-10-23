@@ -13,3 +13,5 @@ Mainly used as JavaScript, HTML, Node.js(Express.js/JSON/APIs/Git/EJS), SQL, Mon
 /- 5 - A webpage used EJS to set a to do list, user can add new items and check them out when finished them, includes date list, worklist and about page. (todolist1.zip / styles.css / todolist1.js / about.ejs / footer.ejs / header.ejs / list.ejs)
 
 /- 6 - Secrets-Starting-Code project, is a practice of authentication. I went through different levels of security and solutions of authentication via the usage of mongoose-encryption, dotenv, hash, bcrypt, salt round,passport.js, OAuth to implement how to register through third party account, which is Google account inside this project. It a localhost webpage and mongoDB database back up. (Secrets-Starting-Code.zip / app.js)
+
+/- 7 - Practice of RESTful API, to implement get, post, put, patch, delete function. Document name: wikiAPI.js
